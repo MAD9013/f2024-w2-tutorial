@@ -86,11 +86,11 @@ section {
 .cards {
   list-style-type: none;
   padding: 0;
-  margin-bottom: 2rem;
+  margin-block-end: 2rem;
 }
 
 .card {
-  margin-bottom: 1rem;
+  margin-block-end: 1rem;
 }
 
 .card img {
